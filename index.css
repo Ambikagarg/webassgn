@@ -1,0 +1,172 @@
+body{
+    background-color: #ccddff;
+}
+.image{
+    padding-bottom: 30px;
+}
+.image1{
+    padding-bottom: 30px;
+}
+.fas fa-bullhorn{
+    color: blue;
+}
+.picc{
+    margin-top: 5px;
+}
+.searc{
+    height: 51px;
+    margin-left: -223px;
+    background-color: white;
+    padding-top: 30px;
+    padding-right: 750px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+
+
+}
+p{
+    color: grey;
+}
+.para{
+    display: block;
+}
+#pic{
+    float: right;
+    margin-right: -700px;
+}
+.search{
+    float: left;
+    border-radius: 15px;
+    background-color: #ccddff ;
+    border-color: blue;
+    border-width: 3px;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    
+}
+h3{
+    color: #0080ff;
+    
+}
+label{
+    font-family: 'Inter', sans-serif;
+    color: #4d4d4d;
+    font-weight: bold;
+}
+.left{
+    background-color: white;
+    float: left;
+    
+    margin-right: 50px;
+    padding: 30px;
+    padding-bottom: 200px;
+}
+.right{
+    float: right;
+}
+.right2{
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-left: 50px;
+   
+    background-color: white;
+}
+.fab fa-wpforms{
+    padding-right: 100px;
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 2px;
+
+}
+.sear{
+    float: right;
+    margin-right: 550px;
+    margin-left: 100px;
+    
+}
+.sear1{
+    float: right;
+    margin-right: 640px;
+}
+.sear2{
+    float: right;
+    margin-right: 610px;
+}
+.btn-group open{
+    float: right;
+}
+.photo{
+    border-radius: 20px;
+}
+.pic{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+#ch1{
+    margin-bottom: 20px;
+    border-color: #e6e6e6;
+    
+    
+}
+.picc{
+    padding-right: 100px;
+}
+input{
+    border-radius: 5px;
+    height: 25px;
+}
+#ch2{
+    border-color:#e6e6e6;
+}
+.leftt{
+    border:#e6e6e6;
+    margin-right: 20px;
+    border-width: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    padding: 20px 40px;
+    
+}
+.righttt{
+    background-color: white;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    margin-left: -200px;
+}
+.down{
+    border: #e6e6e6;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    
+    padding: 20px 40px;
+    
+}
+.icon{
+    float: right;
+    margin-top: -120px;
+    border: 2px dashed ;
+    padding: 20px;
+    padding-left: 50px;
+    align-items: center;
+}
+.drag-area{
+    align-items: center;
+    align-content: center;
+}
+.btnn{
+    background-color: 	 #3366ff ;
+    color: white;
+    border: #3366ff;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 10px;
+    margin-left: -30px;
+}
+.cloud{
+    align-items: center;
+}
